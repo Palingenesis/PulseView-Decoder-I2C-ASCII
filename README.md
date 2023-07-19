@@ -8,9 +8,8 @@
 
 ![I2C-ASCII](Images/I2C-ASCII.png)
 
-I use both decoders at the same time.
-Why?
-    Answer: It is easyer when checing my Arduino Projects.
+I use both decoders at the same time.<br />
+It is easyer when checing my Arduino Projects.
 
 
 To install the decoders just place the two folders:
@@ -24,7 +23,5 @@ To install the decoders just place the two folders:
     Somthing like:
 
         `C:\Program Files\sigrok\PulseView\share\libsigrokdecode\decoders`
-
-
 
 *Also in this repositry is a copy of the original i2c decoder. I have changed the wording of the output to match my modified version.*
