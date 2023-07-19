@@ -9,7 +9,8 @@
 ![I2C-ASCII](Images/I2C-ASCII.png)
 
 I use both decoders at the same time.
-
+Why?
+    Answer: It is easyer when checing my Arduino Projects.
 
 
 To install the decoders just place the two folders:
