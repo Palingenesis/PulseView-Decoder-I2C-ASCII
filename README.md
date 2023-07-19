@@ -1,6 +1,6 @@
-# PulseView Decoder I2C-ASCII
+# PulseView Decoder I²C-ASCII
 
-**i2c-ASCII** is a copy of **i2c** with a little different output.
+**I²C-ASCII** is a copy of **I²C** with a little different output.
 
 **The difference is:**
 
@@ -14,9 +14,9 @@ I use both decoders at the same time.
 
 To install the decoders just place the two folders:
 
-    `i<sup>2</sup>c-ASCII`
+    `i2c-ASCII`
 
-    `i<sup>2</sup>c`
+    `i2c`
 
     into the `decoders` folder of your PulseViews instalation.
 
