@@ -6,7 +6,7 @@
 
     If the HEX value is between 0 and 127. then the ASCII charecter for that value will be shown.
 
-![I2C-ASCII](..\Images\I2C-ASCII.png)
+![I2C-ASCII](Images/I2C-ASCII.png)
 
 I use both decoders at the same time.
 
